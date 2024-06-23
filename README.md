@@ -1,3 +1,3 @@
 # Repo-1
-today is sunday
-and sunday is funday
+today is sunday.
+sunday is funday
